@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini01bresgoog_0177.png"; bbox 0 0 3084 4748; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1280 666 1282 1205">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1280 666 1282 1205">
+     <span class='ocr_line' id='line_1_1' title="bbox 1280 666 1282 1205; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1280 666 1282 1205; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 150 1782 151 2623">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 150 1782 151 2623">
+     <span class='ocr_line' id='line_1_2' title="bbox 150 1782 151 2623; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 150 1782 151 2623; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 495 3975 1086 4106">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 495 3975 1086 4106">
+     <span class='ocr_line' id='line_1_3' title="bbox 495 3975 1086 4106; baseline -0.003 -38"><span class='ocrx_word' id='word_1_3' title='bbox 495 3975 698 4070; x_wconf 61' lang='lat' dir='ltr'>†.Mullisia</span> <span class='ocrx_word' id='word_1_4' title='bbox 726 3979 884 4070; x_wconf 69' lang='lat' dir='ltr'>nausiulla</span> <span class='ocrx_word' id='word_1_5' title='bbox 901 3981 1086 4106; x_wconf 68' lang='lat' dir='ltr'>Hr25.n.sp.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 445 4205 1170 4344">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 445 4205 1170 4344">
+     <span class='ocr_line' id='line_1_4' title="bbox 445 4205 1170 4344; baseline 0.007 -39"><span class='ocrx_word' id='word_1_6' title='bbox 445 4205 744 4341; x_wconf 64' lang='lat' dir='ltr'>ZPuduaphaura</span> <span class='ocrx_word' id='word_1_7' title='bbox 759 4205 979 4313; x_wconf 66' lang='lat' dir='ltr'>Brasadulan</span> <span class='ocrx_word' id='word_1_8' title='bbox 1002 4210 1170 4344; x_wconf 62' lang='lat' dir='ltr'>Uufilmp.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 144 4477 377 4551">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 144 4477 377 4551">
+     <span class='ocr_line' id='line_1_5' title="bbox 144 4477 377 4551; baseline 0.017 -6"><span class='ocrx_word' id='word_1_9' title='bbox 144 4477 377 4551; x_wconf 56' lang='lat' dir='ltr'>vandahkle</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1546 4748">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1546 4748">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1546 4748; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1546 4748; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

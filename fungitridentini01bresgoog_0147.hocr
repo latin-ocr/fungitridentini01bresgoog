@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini01bresgoog_0147.png"; bbox 0 0 846 1260; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 105 78 772 115">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 105 78 772 115">
+     <span class='ocr_line' id='line_1_1' title="bbox 105 78 772 115; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 105 78 193 115; x_wconf 54' lang='lat' dir='ltr'>{sumgar</span> <span class='ocrx_word' id='word_1_2' title='bbox 206 79 332 105; x_wconf 54' lang='lat' dir='ltr'>5va</span> <span class='ocrx_word' id='word_1_3' title='bbox 670 78 727 104; x_wconf 56' lang='lat'>5025.</span> <span class='ocrx_word' id='word_1_4' title='bbox 733 78 772 104; x_wconf 84' lang='lat' dir='ltr'>XV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 139 182 754 889">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 139 182 754 889">
+     <span class='ocr_line' id='line_1_2' title="bbox 139 182 754 889; baseline 0 371"><span class='ocrx_word' id='word_1_5' title='bbox 139 182 754 889; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 206 1028 619 1072">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 206 1028 619 1072">
+     <span class='ocr_line' id='line_1_3' title="bbox 206 1028 619 1072; baseline -0.002 -12"><span class='ocrx_word' id='word_1_6' title='bbox 206 1028 335 1061; x_wconf 66' lang='lat' dir='ltr'>Heluiium</span> <span class='ocrx_word' id='word_1_7' title='bbox 354 1028 484 1061; x_wconf 74' lang='lat' dir='ltr'>Pedruffli</span> <span class='ocrx_word' id='word_1_8' title='bbox 499 1029 619 1072; x_wconf 61' lang='lat' dir='ltr'>Bresnsp.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 97 1108 741 1126">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 97 1108 741 1126">
+     <span class='ocr_line' id='line_1_4' title="bbox 97 1108 741 1126; baseline -0.005 -3"><span class='ocrx_word' id='word_1_9' title='bbox 97 1109 162 1123; x_wconf 49' lang='lat' dir='ltr'>Bru-u-</span> <span class='ocrx_word' id='word_1_10' title='bbox 165 1111 188 1123; x_wconf 68' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_11' title='bbox 615 1108 635 1121; x_wconf 60' lang='lat' dir='ltr'>aa</span> <span class='ocrx_word' id='word_1_12' title='bbox 638 1109 648 1121; x_wconf 71' lang='grc' dir='ltr'>υτ</span> <span class='ocrx_word' id='word_1_13' title='bbox 652 1109 693 1126; x_wconf 50' lang='lat' dir='ltr'>:cap-J</span> <span class='ocrx_word' id='word_1_14' title='bbox 696 1109 741 1122; x_wconf 62' lang='lat' dir='ltr'>:rt-m..</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

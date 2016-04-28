@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini01bresgoog_0185.png"; bbox 0 0 846 1260; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 613 43 793 86">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 613 43 793 86">
+     <span class='ocr_line' id='line_1_1' title="bbox 613 43 793 86; baseline 0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 613 43 615 45; x_wconf 66' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_2' title='bbox 657 58 710 86; x_wconf 49' lang='lat' dir='ltr'>&amp;a</span> <span class='ocrx_word' id='word_1_3' title='bbox 722 63 793 86; x_wconf 69' lang='lat' dir='ltr'>XXle</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 268 1020 638 1108">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 268 1020 638 1108">
+     <span class='ocr_line' id='line_1_2' title="bbox 268 1020 638 1056; baseline 0.005 -11"><span class='ocrx_word' id='word_1_4' title='bbox 268 1021 365 1054; x_wconf 63' lang='lat' dir='ltr'><strong>lAElikuuqhn</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 373 1023 441 1047; x_wconf 53' lang='lat' dir='ltr'>*munnam</span> <span class='ocrx_word' id='word_1_6' title='bbox 452 1022 587 1056; x_wconf 60' lang='grc' dir='ltr'>ΓιῖΤιῚιΙυιιυεῑμιιιηί</span> <span class='ocrx_word' id='word_1_7' title='bbox 595 1020 638 1047; x_wconf 58' lang='grc' dir='ltr'>Ηνκεῖ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 269 1069 597 1108; baseline 0.009 -14"><span class='ocrx_word' id='word_1_8' title='bbox 269 1069 373 1095; x_wconf 72' lang='lat' dir='ltr'>2.Pa11unlns</span> <span class='ocrx_word' id='word_1_9' title='bbox 387 1071 482 1106; x_wconf 57' lang='lat' dir='ltr'>Hussuluiua</span> <span class='ocrx_word' id='word_1_10' title='bbox 497 1074 545 1097; x_wconf 60' lang='grc' dir='ltr'>ΗΓΠΗΔ</span> <span class='ocrx_word' id='word_1_11' title='bbox 552 1084 566 1097; x_wconf 80' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_12' title='bbox 574 1084 597 1108; x_wconf 68' lang='grc' dir='ltr'>ιῡμ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 106 51 802 1186">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 106 51 802 1186">
+     <span class='ocr_line' id='line_1_4' title="bbox 106 51 802 1186; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 106 51 802 1186; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

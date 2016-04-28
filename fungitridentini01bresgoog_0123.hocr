@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini01bresgoog_0123.png"; bbox 0 0 846 1260; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 78 766 115">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 78 766 115">
+     <span class='ocr_line' id='line_1_1' title="bbox 118 78 766 115; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 118 80 189 115; x_wconf 58' lang='lat' dir='ltr'>sim-32</span> <span class='ocrx_word' id='word_1_2' title='bbox 206 80 323 105; x_wconf 45' lang='lat' dir='ltr'>Sidenum</span> <span class='ocrx_word' id='word_1_3' title='bbox 673 78 723 104; x_wconf 57' lang='lat'>5213,</span> <span class='ocrx_word' id='word_1_4' title='bbox 742 79 766 104; x_wconf 85' lang='lat' dir='ltr'>lll</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 142 154 589 932">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 142 154 589 932">
+     <span class='ocr_line' id='line_1_2' title="bbox 142 154 589 932; baseline 0 328"><span class='ocrx_word' id='word_1_5' title='bbox 142 154 589 932; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 155 1007 642 1055">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 155 1007 642 1055">
+     <span class='ocr_line' id='line_1_3' title="bbox 155 1007 642 1055; baseline 0 -15"><span class='ocrx_word' id='word_1_6' title='bbox 155 1007 283 1053; x_wconf 75' lang='lat' dir='ltr'>Chtncybe</span> <span class='ocrx_word' id='word_1_7' title='bbox 303 1009 476 1055; x_wconf 78' lang='lat' dir='ltr'>xanlhnphyllfl</span> <span class='ocrx_word' id='word_1_8' title='bbox 494 1009 564 1040; x_wconf 76' lang='lat' dir='ltr'><strong>Hres.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 581 1021 601 1040; x_wconf 79' lang='lat' dir='ltr'>u.</span> <span class='ocrx_word' id='word_1_10' title='bbox 618 1020 642 1053; x_wconf 82' lang='lat' dir='ltr'>sp</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 102 1097 200 1111">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 102 1097 200 1111">
+     <span class='ocr_line' id='line_1_4' title="bbox 102 1097 200 1111; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 102 1097 174 1111; x_wconf 60' lang='lat' dir='ltr'>Bmudaela</span> <span class='ocrx_word' id='word_1_12' title='bbox 177 1099 200 1111; x_wconf 64' lang='grc' dir='ltr'>Η,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
